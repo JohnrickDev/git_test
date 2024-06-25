@@ -1,1 +1,4 @@
-Hello world, This is John and these are my real first steps to real world coding
+#Hello world, This is John and these are my real first steps to real world coding
+#Hi there!
+#My name is Johnrick and I want to turn my life around that's why I want to learn to be a software engineer!
+#I will do my best to savor every moment of learning 
